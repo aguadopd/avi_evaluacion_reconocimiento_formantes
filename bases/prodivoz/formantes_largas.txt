@@ -1,0 +1,16 @@
+nombre;fonema;f1;f2
+A_Agu_nr.wav;a;973;1474
+A_Bruno_nr.wav;a;788;1217
+A_Mari_nr.wav;a;985;1506;
+E_Agu_nr.wav;e;586;2204
+E_Bruno_nr.wav;e;453;1893
+E_Mari_nr.wav;e;563;2321
+I_Agu_nr.wav;i;318;2509
+I_Bruno_nr.wav;i;316;2184
+I_Mari_nr.wav;i;438;2568
+O_Agu_nr.wav;o;560;978
+O_Bruno_nr.wav;o;554;924
+O_Mari_nr.wav;o;716;997
+U_Agu_nr.wav;u;315;764
+U_Bruno_nr.wav;u;323;783
+U_Mari_nr.wav;u;363;732
